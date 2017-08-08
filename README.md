@@ -1,3 +1,3 @@
 # Exercise1_html-css_basic
-simple html page using the html tags and css
-basic use of <div> tag and list
+Simple html page using the html tags and css.
+Basic use of div and list tags
