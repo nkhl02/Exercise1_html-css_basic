@@ -1,0 +1,23 @@
+.second 
+{
+	border-style: solid;
+	border-color: white;
+    margin-top: 10px;
+	margin-bottom: 10px;
+	border-width: 3px;
+
+}
+#first 
+{
+	width: 700px;
+	margin: auto;
+}
+.third
+{
+	margin-top: 10px;
+	margin-bottom: 10px; 
+}
+body
+{
+	background-color: #d6c9c7;
+}
